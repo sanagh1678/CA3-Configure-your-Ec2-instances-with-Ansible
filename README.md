@@ -20,3 +20,7 @@ configure your Ec2 instances with Ansible CA3
         state: started
         tags:
           Environment: Testing
+#question1 
+create and configure a vpc, subnet, route table, etc. with terraform, Ec2 instance and a load balancer with terraform
+
+
